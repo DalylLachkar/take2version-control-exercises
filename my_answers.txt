@@ -1,3 +1,11 @@
+(Was a marker here)
 Ex 5 step 3:
 Adding
 Some other data
+(Here was also a marker)
+Ex 5:
+Adding
+A few lines
+(Here was the last marker with a number or something)
+Solving the conflict by removing conflict markers, and saving this document now
+
