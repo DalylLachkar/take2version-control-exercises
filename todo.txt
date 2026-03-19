@@ -1,0 +1,14 @@
+
+
+B) Submit report.
+
+
+D) Submit final version.
+C) Submit expenses.
+
+--> Removed conflict markers, and solved the conflict by:
+Deleting line A, because in the main commit we removed this
+Keeping line C, because dev added it
+For version B, i get to choose one version manually so i changed the letter to D.
+Apparently, i can write whatever i want here as long as i commit it afterwards.
+Git only knows a conflict is RESOLVED after we do git add, and git commit again

@@ -4,4 +4,9 @@ Second attempt at the tutorial for exam practice
 
 
 Adding a few lines
-Foor tutorial exercise
+For tutorial exercise
+
+Exercise 7:
+  First switched to a newly created branch,
+  Then changed a typo and added these 4 lines
+  to create a test-pull request.
